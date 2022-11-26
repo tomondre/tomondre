@@ -3,6 +3,11 @@ My name is Tomas Ondrejka. I am software technology engineering student, studyin
 
 ### https://blog.tomondre.com
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tomondre/count.svg" />
+</p>
 <!--
 **tomondre/tomondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
