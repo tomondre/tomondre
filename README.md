@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tomas Ondrejka. I am software technology engineering student, studying at Via University College in Horsens, Denmark. Currently I am taking an internship at Qualcomm as a Cloud Engineering intern in Salzburg Austria. Check out my work:
+My name is Tomas Ondrejka. I am software technology engineering student, studying at Via University College in Horsens, Denmark. Currently I am taking an internship at Qualcomm as a Cloud Engineering intern in Salzburg Austria. Feel free to check out my work
 
 ### https://blog.tomondre.com
 
