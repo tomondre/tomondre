@@ -12,9 +12,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
 
 
-Check out my blog: https://blog.tomondre.com
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko" alt="tomondre" />
 
 <!--
