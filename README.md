@@ -6,6 +6,7 @@ My name is Tomas Ondrejka. I am software technology engineering student, studyin
 
 
 ![Tomondre's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
 
 <!--
