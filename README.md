@@ -1,6 +1,6 @@
 
 <a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedin.svg" />
+  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 <a href="https://www.instagram.com/tomas_ondrejka_/">
   <img align="left" alt="Tomas Ondrejka Instagram" width="22px" src="https://cdn.tomondre.com/icons/instagram.svg" />
