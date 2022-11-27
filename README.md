@@ -1,11 +1,21 @@
-Check out my blog: https://blog.tomondre.com
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/tomas-ondrejka
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko" alt="tomondre" />
-
+<a href="https://linkedin.com/in/tomas-ondrejka">
+  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/tomas_ondrejka_/">
+  <img align="left" alt="Tomas Ondrejka Instagram" width="22px" src="https://cdn.tomondre.com/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/tomas.o.ondrejka//">
+  <img align="left" alt="Tomas Ondrejka Facebook" width="22px" src="https://cdn.tomondre.com/icons/facebook.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
+
+
+Check out my blog: https://blog.tomondre.com
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko" alt="tomondre" />
 
 <!--
 **tomondre/tomondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
