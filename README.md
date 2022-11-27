@@ -1,11 +1,9 @@
-### Hi there 👋
-My name is Tomas Ondrejka. I am software technology engineering student, studying at Via University College in Horsens, Denmark. Currently I am taking an internship at Qualcomm as a Cloud Engineering intern in Salzburg Austria. Feel free to check out my work
+Check out my blog: https://blog.tomondre.com
 
-### https://blog.tomondre.com
+Connect with me on LinkedIn: https://www.linkedin.com/in/tomas-ondrejka
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko" alt="tomondre" />
 
-
-![Tomondre's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
 
