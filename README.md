@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/tomas_ondrejka_/">
   <img align="left" alt="Tomas Ondrejka Instagram" width="22px" src="https://cdn.tomondre.com/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/tomas.o.ondrejka//">
+<a href="https://www.facebook.com/tomas.o.ondrejka/">
   <img align="left" alt="Tomas Ondrejka Facebook" width="22px" src="https://cdn.tomondre.com/icons/facebook.svg" />
 </a>
 
