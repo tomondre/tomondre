@@ -9,9 +9,6 @@
   <img align="left" alt="Tomas Ondrejka Facebook" width="22px" src="https://cdn.tomondre.com/icons/facebook.svg" />
 </a> -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre)
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=merko" alt="tomondre" />
 
 <!--
