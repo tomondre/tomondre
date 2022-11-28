@@ -5,7 +5,7 @@
 
 </br>
  
-<img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+<img width="300px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
