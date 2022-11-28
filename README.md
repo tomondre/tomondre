@@ -6,7 +6,7 @@
 </br>
 
 <div>
-  <img width="30%" style="min-width=350px;" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="30%" style="min-width: 350px;" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently working on infrastructure for <a href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
