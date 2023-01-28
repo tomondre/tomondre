@@ -11,7 +11,7 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
 <!--     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li> -->
-    <li>🧐 Studying for the AWS Solutions Associate exam.</li>
+    <li>🎉 I have successfully passed the AWS Solutions Associate exam.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://tomondre.github.io">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://linkedin.com/in/tomas-ondrejka">LinkedIn</a>.</li>
 <!--     <li>📝 I regulary write articles on <a href="https://blog.tomondre.com">my blog</a>.</li> -->
